@@ -3,4 +3,4 @@
 
 <p>Aqui estão alguns links para quem quiser entrar em contato comigo e trocarmos idéias e expeiências...⤵️</p>
 
-<a href="https://github.com/VictorWeb123/VictorWeb123/blob/main/images/imagens-links-readme/logo-gmail.png" style="width: 40px; heitgh: 40px;"></a>
+<a href="https://github.com/VictorWeb123/VictorWeb123/blob/main/images/imagens-links-readme/logo-gmail.png"></a>
