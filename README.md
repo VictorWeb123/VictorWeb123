@@ -3,4 +3,9 @@
 
 <p>Aqui estão alguns links para quem quiser entrar em contato comigo e trocarmos idéias e expeiências...⤵️</p>
 
-<img src="https://github.com/VictorWeb123/VictorWeb123/blob/main/images/imagens-links-readme/logo-gmail.png" style="width: 40px; height: 40px;">
+
+
+<a href="tomail:victortrader770@gmail.com">
+    <img src="https://github.com/VictorWeb123/VictorWeb123/blob/main/images/imagens-links-readme/logo-gmail.png" style="width: 40px; height: 40px;">
+</a>
+
