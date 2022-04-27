@@ -5,5 +5,5 @@
 
 
 <div>
-    <a href="mailto:victortrader770@gmial.com" target="_blank"><img src="./images/imagens-links-readme/logo-gmail.png"></a>
+    <a href="mailto:victortrader770@gmial.com" target="_blank"><img src="./images/imagens-links-readme/logo-gmail.png" height="40" width="40"></a>
 </div>
