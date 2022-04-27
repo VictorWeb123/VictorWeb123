@@ -5,6 +5,6 @@
 
 
 
-<a href="tomail:victortrader770@gmail.com">gmail</a>
+<a href="mail:victortrader770@gmail.com">gmail</a>
 
 
