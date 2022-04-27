@@ -13,8 +13,14 @@
 
 <p>Agora as Técnologias usadas por mim para fazer meus projetos...⤵️</p>
 
-<div style="display: inline_block"><br> 
-    <img align="center" alt="victor-html" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
-    <img align="center" alt="victor-css" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
-    <img align="center" alt="victor-js" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+<div style="display: inline_block  align: center"><br> 
+    <img alt="victor-html" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
+    <img alt="victor-css" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
+    <img alt="victor-js" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+</div>
+
+<p>E também, as linguagens que estou estudando no momento, e as que pretendo ainda estudar</p>
+
+<div>
+
 </div>
