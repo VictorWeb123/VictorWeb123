@@ -5,8 +5,6 @@
 
 
 
-<a href="tomail:victortrader770@gmail.com">
-    <img src="https://github.com/VictorWeb123/VictorWeb123/blob/main/images/imagens-links-readme/logo-gmail.png" style="width: 40px; height: 40px;">
-    gmail
-</a>
+<a href="tomail:victortrader770@gmail.com">gmail</a>
+
 
