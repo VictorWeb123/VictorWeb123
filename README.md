@@ -25,3 +25,9 @@
     <img alt="victor-bootstrap" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
     <img alt="victor-node" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
 </div>
+
+<div>
+  <a href="https://github.com/VictorWeb123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorWeb123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWeb123&layout=compact&langs_count=7&theme=dracula"/>
+</div>
