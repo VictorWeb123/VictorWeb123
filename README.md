@@ -18,8 +18,10 @@
     <img alt="victor-js" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
 </div>
 
-<p>E também, as linguagens que estou estudando no momento, e as que pretendo ainda estudar</p>
+<p>E também, as linguagens que estou estudando no momento, e as que pretendo ainda estudar...⤵️</p>
 
 <div>
-
+     <img alt="victor-react" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+    <img alt="victor-bootstrap" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+    <img alt="victor-node" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
 </div>
