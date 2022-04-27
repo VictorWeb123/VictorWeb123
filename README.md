@@ -3,7 +3,6 @@
 
 <p>Aqui estão alguns links para quem quiser entrar em contato comigo e trocarmos idéias e expeiências...⤵️</p>
 
-
 <div>
     <a href="mailto:victortrader770@gmial.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/victor_ricardo007/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -13,7 +12,7 @@
 
 <p>Agora as Técnologias usadas por mim para fazer meus projetos...⤵️</p>
 
-<div style="display: inline_block  align: center"><br> 
+<div style="display: inline_block  align: center"> 
     <img alt="victor-html" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
     <img alt="victor-css" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
     <img alt="victor-js" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
